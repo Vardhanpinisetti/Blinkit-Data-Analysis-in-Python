@@ -1,8 +1,4 @@
-Here is a **detailed project description** for your project titled **“Blinkit Data Analysis in Python”**, based on your uploaded dataset, code, and presentation:
-
----
-
-## **Project Title:**
+# **Project Title:**
 
 ### **Title: Blinkit Data Analysis in Python**
 
